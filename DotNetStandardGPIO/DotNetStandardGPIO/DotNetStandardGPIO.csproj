@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>SakhapovI</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>DotNetStandard</Company>
+    <Product>DotNetStandard</Product>
+    <PackageLicenseUrl>https://github.com/sakhapov/DotNetStandardGPIO/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/sakhapov/DotNetStandardGPIO</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sakhapov/DotNetStandardGPIO/tree/master/DotNetStandardGPIO</RepositoryUrl>
+    <AssemblyVersion>0.0.1.0</AssemblyVersion>
+    <FileVersion>0.0.1.0</FileVersion>
+    <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
 
 </Project>
