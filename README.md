@@ -2,7 +2,7 @@
 
 GPIO Class Library helper for .Net Standard 2.0
 
-May use for all devices, but GPIO mapping need.
+May use for all devices, which running on Linux and .Net Core
 
 v0.0.1 GpioOn/Off
 
