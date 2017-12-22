@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DotNetStandardGPIO/.vs/DotNetStandardGPIO/v15
+/DotNetStandardGPIO/DotNetStandardGPIO/obj
