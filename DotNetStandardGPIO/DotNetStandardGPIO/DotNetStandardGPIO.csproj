@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Version>0.0.1</Version>
     <Authors>SakhapovI</Authors>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Company>DotNetStandard</Company>
     <Product>DotNetStandard</Product>
     <PackageLicenseUrl>https://github.com/sakhapov/DotNetStandardGPIO/blob/master/LICENSE</PackageLicenseUrl>
